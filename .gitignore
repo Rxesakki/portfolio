@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+build/
+.open-next/
+.wrangler/
+.DS_Store
+*.pem
+.env*
+!.env.example
+next-env.d.ts
+tsconfig.tsbuildinfo
